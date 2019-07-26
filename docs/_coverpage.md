@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_img/cub_paw.png)
+![logo](/_img/cub-paw.png)
 
 # TIGRCUBS User Docs
 
